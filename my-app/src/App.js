@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-import EventPractice from './EventPractice';
+import EventPractice from './ex/ValidationSample.js';
 
 class App extends Component{
 	render(){
